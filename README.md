@@ -12,3 +12,9 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+```
+$(patsubst %,$(PROTOBUF_OUTPUT_DIR))
+```
+
+`$(patsubst %,$(PROTOBUF_OUTPUT_DIR))`
