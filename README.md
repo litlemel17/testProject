@@ -18,3 +18,5 @@ $(patsubst %,$(PROTOBUF_OUTPUT_DIR))
 ```
 
 `$(patsubst %,$(PROTOBUF_OUTPUT_DIR))`
+
+$$\frac{1}{2} \$ $$
